@@ -16,7 +16,7 @@ can be also executed as just one example either from the container or from syste
 it is a dashing ros2 with the default realsense sdk retrieved from apt repository; intel might have revoked the repositories from the public access, however, temporarily
 
 
-## zed_ros1
+## ros1_zed
 
 to build: build . -t ros1_zed
 
